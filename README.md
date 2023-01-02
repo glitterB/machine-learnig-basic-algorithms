@@ -2,5 +2,7 @@
 
 ### List of Algorithms
 
-* Gradient Descent
-* Perceptron
+- 1) Gradient Descent
+- 2) Linear Regression
+- 3) Feed Forward 
+- 4) Perceptron Algorithm
